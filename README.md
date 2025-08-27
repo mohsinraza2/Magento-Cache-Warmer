@@ -13,10 +13,10 @@ Magento CacheWarmer is a utility built specifically for **Magento 2 stores** to 
 
 ## Prerequisites
 Before installation, ensure your environment meets the following requirements:
-- **Magento Version**: Magento 2.4.x (recommended)
-- **PHP Version**: PHP 7.4 or higher
+- **Magento Version**: Magento 2.4.7 or higher (recommended)
+- **PHP Version**: PHP 8.2 or higher
 - **Composer**: Installed and available globally
-- **Database**: MySQL 5.7+ or MariaDB equivalent
+- **Database**: MySQL 10+ or MariaDB equivalent
 - **Server**: Apache or Nginx configured for Magento 2
 - **Access**: SSH access to the server for running CLI commands
 
